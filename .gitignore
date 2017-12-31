@@ -2,3 +2,4 @@
 !.gitignore
 !httpd-vhosts.conf
 !README.md
+!httpd.conf
